@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="792" viewBox="0 0 1100 792" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5">
+<rect width="100%" height="100%" rx="6" fill="#0d1117"/>
+<text x="28" y="56" xml:space="preserve"><tspan fill="#f0883e">                               +:-*.</tspan></text>
+<text x="28" y="72" xml:space="preserve"><tspan fill="#f0883e">                      :+-- .###++*=#%+*%%=-</tspan></text>
+<text x="28" y="88" xml:space="preserve"><tspan fill="#f0883e">                 .. =#=-:+%#%%%%%%%%%%%%%%%%%%*:  .</tspan></text>
+<text x="28" y="104" xml:space="preserve"><tspan fill="#f0883e">                 . -*=###%%%%%%%%%%%%%%%%%%%%%%#-:-*:</tspan></text>
+<text x="28" y="120" xml:space="preserve"><tspan fill="#f0883e">               .+=+##%##%%%%%%%%%%%%%%%%%%%%%%%%%*#%%*.</tspan></text>
+<text x="28" y="136" xml:space="preserve"><tspan fill="#f0883e">             ..=#####%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%.</tspan></text>
+<text x="28" y="152" xml:space="preserve"><tspan fill="#f0883e">          .   :#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%###:</tspan></text>
+<text x="590.8" y="152" xml:space="preserve"><tspan fill="#f0883e" font-weight="600">shaya@xeij </tspan><tspan fill="#30363d">─────────────────────────────────────────────────────</tspan></text>
+<text x="28" y="168" xml:space="preserve"><tspan fill="#f0883e">         :=.--#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%+##.</tspan></text>
+<text x="590.8" y="168" xml:space="preserve"><tspan fill="#58a6ff">- OS: </tspan><tspan fill="#6e7681">..................................... </tspan><tspan fill="#e6edf3">macOS 26, Arch Linux</tspan></text>
+<text x="28" y="184" xml:space="preserve"><tspan fill="#f0883e">         .#=##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-</tspan></text>
+<text x="590.8" y="184" xml:space="preserve"><tspan fill="#58a6ff">- Uptime: </tspan><tspan fill="#6e7681">............................ </tspan><tspan fill="#e6edf3">24 years, 6 months, 1 day</tspan></text>
+<text x="28" y="200" xml:space="preserve"><tspan fill="#f0883e">          -#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#:</tspan></text>
+<text x="590.8" y="200" xml:space="preserve"><tspan fill="#58a6ff">- Host: </tspan><tspan fill="#6e7681">.................................. </tspan><tspan fill="#e6edf3">MacBook Air M5 (2026)</tspan></text>
+<text x="28" y="216" xml:space="preserve"><tspan fill="#f0883e">          :#%%%%%%%%%%%%%%%%%%%##%%%%%%%%%%%%%%%%%%%%%%%%%%%=</tspan></text>
+<text x="590.8" y="216" xml:space="preserve"><tspan fill="#58a6ff">- Host.Legacy: </tspan><tspan fill="#6e7681">....................... </tspan><tspan fill="#e6edf3">ThinkPad, Arch Linux + i3</tspan></text>
+<text x="28" y="232" xml:space="preserve"><tspan fill="#f0883e">         :+#%%%%%%%%%%%%%%%%%%%##**##+##%%%%%%%%%%%%%%%%%%%%*</tspan></text>
+<text x="590.8" y="232" xml:space="preserve"><tspan fill="#58a6ff">- Kernel: </tspan><tspan fill="#6e7681">.............................. </tspan><tspan fill="#e6edf3">M.Sc. AI, UPC Barcelona</tspan></text>
+<text x="28" y="248" xml:space="preserve"><tspan fill="#f0883e">        -+#%%%%%%%%%%%%%%%%%%#%%#-=-=*%%#%%%%%%%%%%%%%%%%%%%#</tspan></text>
+<text x="590.8" y="248" xml:space="preserve"><tspan fill="#58a6ff">- Shell: </tspan><tspan fill="#6e7681">........................................ </tspan><tspan fill="#e6edf3">zsh + Starship</tspan></text>
+<text x="28" y="264" xml:space="preserve"><tspan fill="#f0883e">        :+#%%%%%%%%%%%%%%%%#%%%%=--:-+%%###%%%%%%%%%%%%%%%%%#*</tspan></text>
+<text x="590.8" y="264" xml:space="preserve"><tspan fill="#58a6ff">- Editor: </tspan><tspan fill="#6e7681">............................................... </tspan><tspan fill="#e6edf3">Neovim</tspan></text>
+<text x="28" y="280" xml:space="preserve"><tspan fill="#f0883e">        -##%%%%%%%%%%%%#%%%%%%%#-:::::-=**#*+#%%%%%%%%%%%%%%%+</tspan></text>
+<text x="28" y="296" xml:space="preserve"><tspan fill="#f0883e">        +%%%%%%%%%%%###%%%%%%%%+:::..::-==+*#%%%%%%%%%%%%%%%%=</tspan></text>
+<text x="590.8" y="296" xml:space="preserve"><tspan fill="#58a6ff">- Languages.Programming: </tspan><tspan fill="#6e7681">.... </tspan><tspan fill="#e6edf3">Python, C++, Rust, TypeScript, SQL</tspan></text>
+<text x="28" y="312" xml:space="preserve"><tspan fill="#f0883e">        .*%%%%%%%%%#%%%%%%%%%%%%*-::::=*#%%%%#%%##%%%%%%%%%%*=</tspan></text>
+<text x="590.8" y="312" xml:space="preserve"><tspan fill="#58a6ff">- Languages.ML: </tspan><tspan fill="#6e7681">...... </tspan><tspan fill="#e6edf3">PyTorch, scikit-learn, XGBoost, LangGraph</tspan></text>
+<text x="28" y="328" xml:space="preserve"><tspan fill="#f0883e">         +#%%%%%%%%##****##%%%##*=-:::-+**+++***+*#%%%%%%%%%#.</tspan></text>
+<text x="590.8" y="328" xml:space="preserve"><tspan fill="#58a6ff">- Languages.Cloud: </tspan><tspan fill="#6e7681">.......... </tspan><tspan fill="#e6edf3">AWS, Docker, Kubernetes, Terraform</tspan></text>
+<text x="28" y="344" xml:space="preserve"><tspan fill="#f0883e">        .=#%%%%%%%%#***#####***##*-::-=***#%####**#*%%%%%%%%*</tspan></text>
+<text x="590.8" y="344" xml:space="preserve"><tspan fill="#58a6ff">- Languages.Data: </tspan><tspan fill="#6e7681">..................... </tspan><tspan fill="#e6edf3">PostgreSQL, Redis, Kafka</tspan></text>
+<text x="28" y="360" xml:space="preserve"><tspan fill="#f0883e">       ::##%%%%%%#%+++*##=#%%:-***=---=+++++*+*+===+*%%%%%%%:</tspan></text>
+<text x="590.8" y="360" xml:space="preserve"><tspan fill="#58a6ff">- Languages.Real: </tspan><tspan fill="#6e7681">.................... </tspan><tspan fill="#e6edf3">English, Persian, Spanish</tspan></text>
+<text x="28" y="376" xml:space="preserve"><tspan fill="#f0883e">        *+=%%%%%%##+====+*++++=+++=:::-===-==-------=+#%%#%#-</tspan></text>
+<text x="590.8" y="376" xml:space="preserve"><tspan fill="#58a6ff">- Hobbies.Software: </tspan><tspan fill="#6e7681">................. </tspan><tspan fill="#e6edf3">Minecraft Modding, Game AI</tspan></text>
+<text x="28" y="392" xml:space="preserve"><tspan fill="#f0883e">         ..=##%%%#+===--=-----===---::-------::::----=*%%%%#</tspan></text>
+<text x="590.8" y="392" xml:space="preserve"><tspan fill="#58a6ff">- Hobbies.Markets: </tspan><tspan fill="#6e7681">...................... </tspan><tspan fill="#e6edf3">Options, Quant Finance</tspan></text>
+<text x="28" y="408" xml:space="preserve"><tspan fill="#f0883e">           :++#%%#+=-----------===--::--::::::::::::-=*%%#=.</tspan></text>
+<text x="28" y="424" xml:space="preserve"><tspan fill="#f0883e">           +=++#%%=------------=+-::.:::-:::::::::::-=%+-=.</tspan></text>
+<text x="590.8" y="424" xml:space="preserve"><tspan fill="#f0883e" font-weight="600">- Focus </tspan><tspan fill="#30363d">────────────────────────────────────────────────────────</tspan></text>
+<text x="28" y="440" xml:space="preserve"><tspan fill="#f0883e">            .-=+*#+==----------==++=--++:-:::::::::--==:::</tspan></text>
+<text x="590.8" y="440" xml:space="preserve"><tspan fill="#58a6ff">- Research: </tspan><tspan fill="#6e7681">.... </tspan><tspan fill="#e6edf3">ML Models, Multi Agent Systems, Computer Vision</tspan></text>
+<text x="28" y="456" xml:space="preserve"><tspan fill="#f0883e">             :==-+#==-----------+*=++=-=-::::::::---=*=.:</tspan></text>
+<text x="590.8" y="456" xml:space="preserve"><tspan fill="#58a6ff">- Founder: </tspan><tspan fill="#6e7681">.......... </tspan><tspan fill="#e6edf3">Stateira Labs, 1,500+ MAU trading terminal</tspan></text>
+<text x="28" y="472" xml:space="preserve"><tspan fill="#f0883e">              -=-=*++==--------==+++++++=---:::::--=+*=:</tspan></text>
+<text x="590.8" y="472" xml:space="preserve"><tspan fill="#58a6ff">- Previously: </tspan><tspan fill="#6e7681">...................... </tspan><tspan fill="#e6edf3">TA, WSU EECS, 300+ students</tspan></text>
+<text x="28" y="488" xml:space="preserve"><tspan fill="#f0883e">               -#%%+++==---===+##%##+*##%%#+=----===++</tspan></text>
+<text x="28" y="504" xml:space="preserve"><tspan fill="#f0883e">               .#*#**+++===+###++**+==+*++*##*=-====+.</tspan></text>
+<text x="590.8" y="504" xml:space="preserve"><tspan fill="#f0883e" font-weight="600">- Contact </tspan><tspan fill="#30363d">──────────────────────────────────────────────────────</tspan></text>
+<text x="28" y="520" xml:space="preserve"><tspan fill="#f0883e">                -#%%++*++=+#**#+====---===++*#==++++*</tspan></text>
+<text x="590.8" y="520" xml:space="preserve"><tspan fill="#58a6ff">- Web: </tspan><tspan fill="#6e7681">............................................... </tspan><tspan fill="#e6edf3">xeijs.com</tspan></text>
+<text x="28" y="536" xml:space="preserve"><tspan fill="#f0883e">                 :=%#**+++*+====++========--=+++*+**:</tspan></text>
+<text x="590.8" y="536" xml:space="preserve"><tspan fill="#58a6ff">- GitHub: </tspan><tspan fill="#6e7681">...................................... </tspan><tspan fill="#e6edf3">github.com/xeij</tspan></text>
+<text x="28" y="552" xml:space="preserve"><tspan fill="#f0883e">                   ##****+**+==++*###%##+====++*###-</tspan></text>
+<text x="590.8" y="552" xml:space="preserve"><tspan fill="#58a6ff">- LinkedIn: </tspan><tspan fill="#6e7681">............................... </tspan><tspan fill="#e6edf3">linkedin.com/in/xeij</tspan></text>
+<text x="28" y="568" xml:space="preserve"><tspan fill="#f0883e">                    -=+##****+===-----:-==+*+*#*#%=</tspan></text>
+<text x="590.8" y="568" xml:space="preserve"><tspan fill="#58a6ff">- Email: </tspan><tspan fill="#6e7681">....................................... </tspan><tspan fill="#e6edf3">xeijs@yahoo.com</tspan></text>
+<text x="28" y="584" xml:space="preserve"><tspan fill="#f0883e">                     ==*#%##++===--==-=====+*##%*==</tspan></text>
+<text x="28" y="600" xml:space="preserve"><tspan fill="#f0883e">                     ==++*%%#****##*+***#*###%#+===</tspan></text>
+<text x="590.8" y="600" xml:space="preserve"><tspan fill="#f0883e" font-weight="600">- GitHub Stats </tspan><tspan fill="#30363d">─────────────────────────────────────────────────</tspan></text>
+<text x="28" y="616" xml:space="preserve"><tspan fill="#f0883e">                     -=+++**%%%%%%%##%%%%%%%#+=====</tspan></text>
+<text x="590.8" y="616" xml:space="preserve"><tspan fill="#58a6ff">- Repos: </tspan><tspan fill="#6e7681">......................... </tspan><tspan fill="#e6edf3">? {Contributed: ?} | Stars: ?</tspan></text>
+<text x="28" y="632" xml:space="preserve"><tspan fill="#f0883e">                     ====++++*%%%%%%%%%%%#++===-==+%@@%%</tspan></text>
+<text x="590.8" y="632" xml:space="preserve"><tspan fill="#58a6ff">- Commits: </tspan><tspan fill="#6e7681">.................................... </tspan><tspan fill="#e6edf3">? | Followers: ?</tspan></text>
+<text x="28" y="648" xml:space="preserve"><tspan fill="#f0883e">                =%%%%*+=====++++++++++======-----==%@@@%%=</tspan></text>
+<text x="590.8" y="648" xml:space="preserve"><tspan fill="#58a6ff">- Lines of Code: </tspan><tspan fill="#6e7681">................................ </tspan><tspan fill="#e6edf3">? ( </tspan><tspan fill="#3fb950">?++</tspan><tspan fill="#e6edf3">, </tspan><tspan fill="#f85149">?--</tspan><tspan fill="#e6edf3"> )</tspan></text>
+<text x="28" y="664" xml:space="preserve"><tspan fill="#f0883e">              %%%%%%%*+======++++===--------------=+%@%%%%%</tspan></text>
+<text x="28" y="680" xml:space="preserve"><tspan fill="#f0883e">             %%%%%%%%*+========++==-----------::---=#%%%%%%%*</tspan></text>
+<text x="28" y="696" xml:space="preserve"><tspan fill="#f0883e">            *%%%%%%%#*+====-=========-------:::::--=%%%%%%%%%%#:</tspan></text>
+<text x="28" y="712" xml:space="preserve"><tspan fill="#f0883e">           +%%%%%%%%#*+===-----=====----::::::::::=*%%%%%%%%%%%%%%%%%%</tspan></text>
+<text x="28" y="728" xml:space="preserve"><tspan fill="#f0883e">       *%%%%%%%%%%%%%#+====-----------:::::::::::-*%%%%%%%%%%%%%%%%%%.</tspan></text>
+<text x="28" y="744" xml:space="preserve"><tspan fill="#f0883e">  +%%%%%%%%%%%%%%%%%%%*====----------::::::::::-=+%%%%%%%%%%%%%%%%%%%.</tspan></text>
+<text x="28" y="760" xml:space="preserve"><tspan fill="#f0883e">%%%%%%%%%%%%%%%%%%%%%%%*====----------:::::::--=+%%%%%%%%%%%%%%%%%%%%:</tspan></text>
+</svg>
