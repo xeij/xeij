@@ -11,6 +11,7 @@ No dependencies beyond the standard library.
 import json
 import os
 import sys
+import time
 import urllib.request
 from datetime import date
 
@@ -86,12 +87,19 @@ def fetch_stats():
     # lines of code: this user's additions/deletions across owned repos
     adds = dels = 0
     for r in repos:
-        try:
-            status, stats = rest(f"/repos/{USER}/{r['name']}/stats/contributors")
-        except Exception as e:                      # empty repo, etc.
-            print(f"skip {r['name']}: {e}", file=sys.stderr)
-            continue
-        if status == 202 or not isinstance(stats, list):   # GitHub still computing
+        stats = None
+        for attempt in range(6):                    # GitHub computes stats lazily
+            try:                                     # and answers 202 until ready
+                status, stats = rest(f"/repos/{USER}/{r['name']}/stats/contributors")
+            except Exception as e:                   # empty repo, etc.
+                print(f"skip {r['name']}: {e}", file=sys.stderr)
+                stats = None
+                break
+            if status == 200 and isinstance(stats, list):
+                break
+            time.sleep(3)
+        if not isinstance(stats, list):
+            print(f"stats not ready for {r['name']}", file=sys.stderr)
             continue
         for c in stats:
             if (c.get("author") or {}).get("login", "").lower() == USER.lower():
